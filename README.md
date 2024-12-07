@@ -1,1 +1,0 @@
-# residence.github.io
