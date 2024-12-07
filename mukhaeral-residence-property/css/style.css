@@ -501,4 +501,31 @@ footer {
     max-width: 300px;
     height: auto;
   }
+  .container {  
+    width: 100%;  
+    max-width: 1200px;  
+    margin: 0 auto;  
+}  
+.column {  
+    float: left;  
+    width: 50%;  
+}  .container {  
+    width: 100%;  
+    max-width: 1200px;  
+    margin: 0 auto;  
+}  
+.column {  
+    float: left;  
+    width: 50%;  
+} 
+ @media (max-width: 768px) {  
+    .column {  
+        width: 100%;  
+    }  
+}  
+@media (max-width: 768px) {  
+    .column {  
+        width: 100%;  
+    }  
+}  
 }
